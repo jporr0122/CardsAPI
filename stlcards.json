@@ -1,0 +1,140 @@
+{
+	"pitchers": [
+		{
+			"name": "Génesis Cabrera",
+			"number": 92,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650893/headshot/67/current"
+		},
+		{
+			"name": "Giovanny Gallegos",
+			"number": 65,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/606149/headshot/67/current"
+		},
+		{
+			"name": "Ryan Helsley",
+			"number": 56,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664854/headshot/67/current"
+		},
+		{
+			"name": "Jordan Hicks",
+			"number": 12,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663855/headshot/67/current"
+		},
+		{
+			"name": "Dakota Hudson",
+			"number": 43,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/641712/headshot/silo/current"
+		},
+		{
+			"name": "Steven Matz",
+			"number": 32,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/571927/headshot/silo/current"
+		},
+		{
+			"name": "T.J. McFarland",
+			"number": 62,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/519008/headshot/silo/current"
+		},
+		{
+			"name": "Miles Mikolas",
+			"number": 39,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/571945/headshot/silo/current"
+		},
+		{
+			"name": "Andre Pallante",
+			"number": 53,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/669467/headshot/silo/current"
+		},
+		{
+			"name": "Drew VerHagen",
+			"number": 34,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/572403/headshot/silo/current"
+		},
+		{
+			"name": "Adam Wainwright",
+			"number": 50,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/425794/headshot/silo/current"
+		},
+		{
+			"name": "Jake Walsh",
+			"number": 61,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/673904/headshot/silo/current"
+		},
+		{
+			"name": "Nick Wittgren",
+			"number": 30,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/621295/headshot/silo/current"
+		}
+	],
+	"catchers": [
+		{
+			"name": "Andrew Knizner",
+			"number": 7,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/668800/headshot/silo/current"
+		},
+		{
+			"name": "Yadier Molina",
+			"number": 4,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/425877/headshot/silo/current"
+		}
+	],
+	"infielders": [
+		{
+			"name": "Nolan Arenado",
+			"number": 28,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/571448/headshot/silo/current"
+		},
+		{
+			"name": "Brendan Donovan",
+			"number": 33,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/680977/headshot/silo/current"
+		},
+		{
+			"name": "Tommy Edman",
+			"number": 19,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/669242/headshot/silo/current"
+		},
+		{
+			"name": "Paul Goldschmidt",
+			"number": 46,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/502671/headshot/silo/current"
+		},
+		{
+			"name": "Albert Pujols",
+			"number": 5,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/405395/headshot/silo/current"
+		},
+		{
+			"name": "Edmundo Sosa",
+			"number": 63,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/624641/headshot/silo/current"
+		},
+		{
+			"name": "Juan Yepez",
+			"number": 36,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/660766/headshot/silo/current"
+		}
+	],
+	"outfielders": [
+		{
+			"name": "Harrison Bader",
+			"number": 48,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/664056/headshot/silo/current"
+		},
+		{
+			"name": "Dylan Carlson",
+			"number": 3,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/666185/headshot/silo/current"
+		},
+		{
+			"name": "Corey Dickerson",
+			"number": 25,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/572816/headshot/silo/current"
+		},
+		{
+			"name": "Tyler O'Neill",
+			"number": 27,
+			"photo_link": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:silo:current.png/r_max/w_180,q_auto:best/v1/people/641933/headshot/silo/current"
+		}
+	]
+}
